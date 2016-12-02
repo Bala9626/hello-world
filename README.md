@@ -1,7 +1,6 @@
 # hello-world
 this is the first GitHub repository I'm creating
 
-Hello everyone!
+Hello again!
 
-I like coding in Python
-I like movies
+I forgot to mention I also like anime like One piece, HunterXHunter
